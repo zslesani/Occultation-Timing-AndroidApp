@@ -39,6 +39,13 @@ The report can be sent directly to the International Occultation and Timing Asso
 
 This app was created to improve the accuracy and standardization of occultation timing data collected by amateur astronomers worldwide. It streamlines the reporting process and ensures compatibility with global databases.
 
+# 🏆 Recognition
+
+- Oral Presentation – 36th ESOP (Germany)
+- Oral Presentation – IOTA Annual Meeting 2017 (USA)
+- Poster Presentation – 8th Moscow Solar System Symposium (Russia)
+- 2nd Place – Soha Astronomical Application Competition 2018 (Iran)
+
 # Author
 
 Developed by Zeinab S L., based on her previous collaboration with IOTA/ME (International Occultation and Timing Association – Middle East), focusing on tools for precision timing in astronomical observations.
