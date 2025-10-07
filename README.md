@@ -9,29 +9,29 @@ This app assists astronomers in accurately recording the time of occultations an
 
 # Features
 
-GPS-Based Time Acquisition
+* GPS-Based Time Acquisition
 Automatically retrieves and displays accurate observation time from the device’s GPS module.
 
-Audio Recording
+* Audio Recording
 Records the observer’s voice during the event for synchronization and verification purposes.
 
-Observation Form
+* Observation Form
 After recording, the observer completes a standard observation report form within the app.
 
-PDF Report Generation
+* PDF Report Generation
 The completed form is automatically converted into a PDF file, ready for submission.
 
-Data Sharing
+* Data Sharing
 The report can be sent directly to the International Occultation and Timing Association (IOTA) and other astronomy communities.
 
 # 📸 Screenshots
 
 
 # Usage
-Open the app and enable GPS.
-Start audio recording before the occultation event begins.
-Once the event is over, fill out the observation form.
-Export the PDF report and share it with your local or international astronomy organization.
++ Open the app and enable GPS.
++ Start audio recording before the occultation event begins.
++ Once the event is over, fill out the observation form.
++ Export the PDF report and share it with your local or international astronomy organization.
 
 #Purpose
 
