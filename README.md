@@ -26,7 +26,7 @@ The report can be sent directly to the International Occultation and Timing Asso
 
 # 📸 Screenshots
 <img width="261" height="431" alt="image" src="https://github.com/user-attachments/assets/82a56225-7cb8-4469-af97-142eb3e226a3" />
-<img width="1080" height="1838" alt="Screenshot_20251007-165434" src="https://github.com/user-attachments/assets/c7bfe797-e2bf-401d-bbe0-dccc25fc1d52" />
+<img width="261" height="431" alt="Screenshot_20251007-165434" src="https://github.com/user-attachments/assets/c7bfe797-e2bf-401d-bbe0-dccc25fc1d52" />
 
 
 # Usage
