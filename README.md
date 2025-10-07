@@ -1,11 +1,11 @@
-# Occultation Timing Android App
+# SkyTiming
 
-An Android application designed for timing and recording occultation and eclipsing events in astronomical observations.
-Developed in Java with XML-based UI layouts.
+An Android application designed for precise timing of astronomical occultation and eclipsing events.
 
 # Overview
 
-This app assists astronomers in accurately recording the time of occultations and eclipsing events using GPS-based timing and audio recording. It provides an integrated workflow for both observation and data submission.
+SkyTiming is a portable, automated tool for astronomers and observers to accurately record event timings using mobile devices.
+It provides an integrated workflow for both observation and data submission. It synchronizes time via GPS, records observer voice, and generates a standardized observation report in PDF format for submission to international databases.
 
 # Features
 
@@ -25,6 +25,8 @@ The completed form is automatically converted into a PDF file, ready for submiss
 The report can be sent directly to the International Occultation and Timing Association (IOTA) and other astronomy communities.
 
 # 📸 Screenshots
+<img width="261" height="431" alt="image" src="https://github.com/user-attachments/assets/82a56225-7cb8-4469-af97-142eb3e226a3" />
+<img width="1080" height="1838" alt="Screenshot_20251007-165434" src="https://github.com/user-attachments/assets/c7bfe797-e2bf-401d-bbe0-dccc25fc1d52" />
 
 
 # Usage
@@ -33,7 +35,7 @@ The report can be sent directly to the International Occultation and Timing Asso
 + Once the event is over, fill out the observation form.
 + Export the PDF report and share it with your local or international astronomy organization.
 
-#Purpose
+# Purpose
 
 This app was created to improve the accuracy and standardization of occultation timing data collected by amateur astronomers worldwide. It streamlines the reporting process and ensures compatibility with global databases.
 
